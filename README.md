@@ -26,8 +26,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskarkarn1&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bhaskarkarn1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhaskarkarn1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
 
 
 
