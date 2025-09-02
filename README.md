@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Bhaskar Ranjan Karn
 
-## 🎓 Integrated MS Student (Maths & Computing) | 📊 Exploring Data and its complexities
+## 🎓 Integrated BS+MS Student (Maths & Computing) | 📊 Exploring Data and its complexities
 
 ---
 
