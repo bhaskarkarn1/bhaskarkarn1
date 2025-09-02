@@ -40,7 +40,12 @@
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhaskarkarn1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskarkarn1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
-</p>
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=bhaskarkarn1&show_icons=true&theme=tokyonight&hide=prs,issues,contribs" alt="GitHub Stats" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskarkarn1&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaskarkarn1&theme=tokyo-night&hide_border=true" width="100%"/>
+
