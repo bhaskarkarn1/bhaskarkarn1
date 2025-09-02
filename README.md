@@ -46,6 +46,3 @@
 <!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaskarkarn1&layout=compact&theme=tokyonight" alt="Top Languages" />
 
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaskarkarn1&theme=tokyo-night&hide_border=true" width="100%"/>
-
